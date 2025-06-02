@@ -21,7 +21,7 @@ I thrive on creating robust solutions and believe in the power of well-crafted c
 Olá! Sou um desenvolvedor apaixonado por entregar funcionalidades de ponta a ponta que facilitam a vida dos usuários. Minha especialidade inclui:
 
 - **Backend**: C# e Java/Spring
-- **Formação**: Graduado em Análise e Desenvolvimento de Sistemas pela prestigiada USP
+- **Formação**: Graduado em Sistemas de Informação pela prestigiada USP
 - **Paixão secreta**: Também adoro desenvolvimento frontend! 😅
 
 **🌟 Cargo Atual**: Coordenador de Desenvolvimento na Black101, onde lidero equipes técnicas em projetos inovadores no mercado financeiro!
