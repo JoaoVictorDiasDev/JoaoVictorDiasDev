@@ -1,5 +1,3 @@
-#z::Run "https://www.autohotkey.com"  ; Win+Z
-
 ^!g:: ; Ctrl+Alt+G 
     DetectHiddenWindows, On
     SetTitleMatchMode, 2
