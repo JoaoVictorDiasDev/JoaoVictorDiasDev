@@ -27,3 +27,4 @@ Olá! Sou um desenvolvedor apaixonado por entregar funcionalidades de ponta a po
 **🌟 Cargo Atual**: Coordenador de Desenvolvimento na Black101, onde lidero equipes técnicas em projetos inovadores no mercado financeiro!
 
 Prospero criando soluções robustas e acredito no poder do código bem elaborado para transformar experiências de usuários.
+
