@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My GitHub! 
+# 👋 Welcome to My GitHub! 
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I thrive on creating robust solutions and believe in the power of well-crafted c
 
 ---
 
-# 👨‍💻 Bem-vindo ao Meu GitHub!
+# 👋 Bem-vindo ao Meu GitHub!
 
 ## 🚀 Sobre Mim
 
